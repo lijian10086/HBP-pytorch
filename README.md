@@ -58,3 +58,8 @@ Based on my code and experimental results, it is far from the result of the orig
 This code borrows from [HERE](https://github.com/HaoMood/bilinear-cnn). If you have any suggestions please contact me, I am still continue to improve the results.
 
 Happy coding.
+
+### 李剑备注：
+1.https://zhuanlan.zhihu.com/p/47608165 论文解读
+2.https://github.com/lijian10086/Hierarchical-Bilinear-Pooling_Resnet_Pytorch 基础网络换成res的HBP-pytorch源码
+3.https://github.com/lijian10086/Hierarchical-Bilinear-Pooling caffe版本的HBP源码
